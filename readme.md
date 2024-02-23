@@ -4,6 +4,7 @@
 2. Haz varios commits desde la nueva rama  
 ![error](./imagenes/img2.png)  
 3. Fusiona la nueva ramacon main  
-![error](./imagenes/img3.png) 
-
-4. 
+![error](./imagenes/img4.png)  
+![error](./imagenes/img3.png)  
+4. Haz un push up y elimina la nueva rama  
+5. 
